@@ -1,7 +1,7 @@
 <svg viewBox="0 0 1000 1690" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fifteen projects by Sharann Manojkumar">
   <style>
     :root { --ink:#000000; --paper:#FFFFFF; }
-    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
+    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; } }
     .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
     .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
     .rule { stroke:var(--ink); stroke-width:1; }
@@ -13,8 +13,8 @@
     .r6{animation-delay:.30s}.r7{animation-delay:.35s}.r8{animation-delay:.40s}.r9{animation-delay:.45s}.r10{animation-delay:.50s}
     .r11{animation-delay:.55s}.r12{animation-delay:.60s}.r13{animation-delay:.65s}.r14{animation-delay:.70s}.r15{animation-delay:.75s}
     @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
-    :root { --ink:#000000; --paper:#FFFFFF; }
-  </style>
+  :root { --bone:#FFFFFF; --muted:#FFFFFF; --dim:#FFFFFF; --rule:#FFFFFF; --accent:#FFFFFF; --node-bg:#000000; --core-bg:#000000; --ghost:#FFFFFF; --ink:#FFFFFF; --paper:#000000; --ghost:#FFFFFF; }
+</style>
 
   <g class="mono">
     <g class="row r1" transform="translate(0 20)">
