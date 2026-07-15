@@ -1,37 +1,225 @@
+```text
+      ___           ___           ___             
+     /\__\         /\  \         /\__\      ___   
+    /:/ _/_       /::\  \       /:/  /     /\  \  
+   /:/ /\__\     /:/\:\  \     /:/  /      \:\  \ 
+  /:/ /:/ _/_   /::\~\:\  \   /:/  /       /::\__\
+ /:/_/:/ /\__\ /:/\:\ \:\__\ /:/__/     __/:/\/__/
+ \:\/:/ /:/  / \/__\:\/:/  / \:\  \    /\/:/  /   
+  \::/_/:/  /       \::/  /   \:\  \   \::/__/    
+   \:\/:/  /        /:/  /     \:\  \   \:\__\    
+    \::/  /        /:/  /       \:\__\   \/__/    
+     \/__/         \/__/         \/__/
+```
+
+<div align="center">
+  <img src="assets/avatar.png" width="800" alt="Wali Medugu" />
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ W A L I   M E D U G U  //  S Y S T E M   I N T E R F A C E                                           ║
+║ [STATUS: ACTIVE]  [PORTFOLIO: INDEX N° 001]  [IP: 9.07° N (ABUJA, NG)]                               ║
+╠══════════════════════════════════════╦═══════════════════════════════════════════════════════════════╣
+║  SYSTEM DIAGNOSTICS                  ║  CONNECTION PATHWAYS                                          ║
+║  ├─ OS      : WALI.SYS v3.0          ║  ├─ [01] PORTFOLIO  :: https://wali-blog.vercel.app           ║
+║  ├─ UPTIME  : 23,892 HR              ║  ├─ [02] BLOG       :: https://wali-blog.vercel.app/blog.html ║
+║  ├─ STATUS  : ACTIVE (BUILDING)      ║  ├─ [03] GITHUB     :: https://github.com/WaliMedugu          ║
+║  ├─ TEMP    : 36.8°C (NOMINAL)       ║  ├─ [04] YOUTUBE    :: https://youtube.com/@notevenwali       ║
+║  ├─ CORES   : 16x HYPER-THREADS      ║  ├─ [05] INSTAGRAM  :: https://instagram.com/w_wali_i         ║
+║  ├─ NETWORK : ONLINE // SECURE       ║  ├─ [06] TIKTOK     :: https://tiktok.com/@w_wali_i           ║
+║  └─ LOC     : Abuja, NG              ║  └─ [07] EMAIL      :: mailto:blueparticlestudios@gmail.com   ║
+╠══════════════════════════════════════╩═══════════════════════════════════════════════════════════════╣
+║ [CPU LOAD] [██████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░] 74%              ║
+║ [MEM LOAD] [██████████████████████████████████████████████████████████░░░░░░░░░░░░] 85%              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 01 // WHOAMI
+
+```text
+┌───[ WHOAMI ]─────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│ Software Engineer, Creative Director, and Activist.                                                  │
+│ building across the stack — Flutter · Node.js · Supabase · Python · Firebase · D3.js.                │
+│ drawn to projects where design meets human psychology. building highly refined user experiences.     │
+│                                                                                                      │
+│ [FOCUS]  Flutter & Mobile · Full-Stack Systems · Data Visualizations · AI Life OS                    │
+│ [STATUS] building Arguuu & Blue Particle Studios                                                     │
+│ [CLUBS]  Team Tensor — Wema Bank Hackaholics Winner                                                  │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+## 02 // SYSTEM MAP
+
+```text
+                                     ╔═════════════════════╗
+                                     ║      WALI.SYS       ║
+                                     ║  Lead & Architect   ║
+                                     ╚══════════╦══════════╝
+                                                ║
+         ┌──────────────────────────────────────┼──────────────────────────────────────┐
+         ▼                                      ▼                                      ▼
+╔══════════════════════╗              ╔══════════════════════╗              ╔══════════════════════╗
+║     MOBILE & WEB     ║              ║     GRAPH & DATA     ║              ║     STUDIO CORE      ║
+╠══════════════════════╣              ╠══════════════════════╣              ╠══════════════════════╣
+║ ├─ arguuu            ║              ║ ├─ bloodline         ║              ║ ├─ spaver            ║
+║ ├─ wherearethey      ║              ║ └─ aumen             ║              ║ ├─ beacora           ║
+║ └─ femn              ║              ╚══════════════════════╝              ║ ├─ vita              ║
+╚══════════════════════╝                                                    ║ └─ walletpaddi       ║
+         │                                                                  ╚══════════╦═══════════╝
+         └──────────────────────────────────────┬──────────────────────────────────────┘
+                                                ▼
+                                     ╔══════════════════════════════════════╗
+                                     ║ COMMUNITY & TEACHING                 ║
+                                     ╠══════════════════════════════════════╣
+                                     ║ ├─ blue particle (Custom App Studio) ║
+                                     ║ ├─ talk about it (Mental Health Group║
+                                     ║ └─ kids bootcamp (Coding Curriculum) ║
+                                     ╚══════════════════════════════════════╝
+```
+
+## 03 // PROJECTS
+
+```text
+┌───[ PROJECTS ]───────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│  PROJECT ARCHIVE (15 ACTIVE NODES)                                                                   │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────  │
+│                                                                                                      │
+│    [01] ARGUUU ───────────────────────────────────────────────────────────────────── [Mobile & Web]  │
+│       - A real-time, 1v1 competitive structured debate mobile and web app.                           │
+│       - Tech: FLUTTER · SUPABASE · DART · CHESS CLOCK · GAMIFICATION                                 │
+│       - Info: Turn-based chess clock, live audience voting, Elo-based ratings.                       │
+│                                                                                                      │
+│    [02] BLOODLINE ────────────────────────────────────────────────────────────────── [Graph & Data]  │
+│       - Software supply chain contagion mapper modeling vulnerability propagation.                   │
+│       - Tech: NODE.JS · D3.JS · DIRECTED GRAPHS · BFS / DFS · VULNERABILITY MODELING                 │
+│       - Info: Models velocities through directed graph network visualizations.                       │
+│                                                                                                      │
+│    [03] BLUE PARTICLE STUDIOS ─────────────────────────────────────────────────────── [Studio Core]  │
+│       - Founder & Lead Coordinator running client app commission pipelines.                          │
+│       - Tech: MOBILE APPS · WEB CLIENTS · COMMISSIONS · DEV OPERATIONS                               │
+│       - Info: Manages delivery operations across Core/Foundation/Signature tiers.                    │
+│                                                                                                      │
+│    [04] WALLETPADDI ───────────────────────────────────────────────────────────────── [Studio Core]  │
+│       - Team Lead of Team Tensor; won first place at Hackaholics 6.0 regional.                       │
+│       - Tech: FLUTTER · DART · FINTECH · HACKAHOLICS 6.0 · AWARD WINNING                             │
+│       - Info: Engineered secure payment transacting and banking workflows.                           │
+│                                                                                                      │
+│    [05] WHEREARETHEY ─────────────────────────────────────────────────────────────── [Mobile & Web]  │
+│       - Live, crowdsourced missing persons digital directory for Nigeria.                            │
+│       - Tech: FLUTTER WEB · SUPABASE · GEOSPATIAL · SOCIAL IMPACT · REAL-TIME                        │
+│       - Info: Engineered for quick spatial lookups with robust database layer.                       │
+│                                                                                                      │
+│    [06] FEMN ─────────────────────────────────────────────────────────────────────── [Mobile & Web]  │
+│       - Politically neutral, civic social activism mobile app for advocacy.                          │
+│       - Tech: FLUTTER · DART · FIREBASE · SOCIAL ACTIVISM · CODE OPTIMIZATION                        │
+│       - Info: Converted React version to a optimized ~2,100-line single file.                        │
+│                                                                                                      │
+│    [07] AUMEN ────────────────────────────────────────────────────────────────────── [Graph & Data]  │
+│       - AI-powered productivity application designed as a personalized Life OS.                      │
+│       - Tech: PRODUCTIVITY · PITCH DECK · LIFE OS · STARTUP PITCH · PROTOTYPING                      │
+│       - Info: Presented prototype at Nile University Startup Competition 6.0.                        │
+│                                                                                                      │
+│    [08] SPAVER ────────────────────────────────────────────────────────────────────── [Studio Core]  │
+│       - Financial expense-tracker with automated local UBA SMS transaction parsing.                  │
+│       - Tech: FLUTTER · DART · SQLITE · SMS PARSING · LOCAL STORAGE                                  │
+│       - Info: SQLite storage backend with custom Android dynamic shortcuts.                          │
+│                                                                                                      │
+│    [09] BEACORA ───────────────────────────────────────────────────────────────────── [Studio Core]  │
+│       - Location-based safety app designed with offline Bluetooth & SMS alerts.                      │
+│       - Tech: FLUTTER · OFFLINE CONNECTIVITY · BLUETOOTH LE · SMS ALERTS                             │
+│       - Info: Distributed directly via personal site for offline resilience.                         │
+│                                                                                                      │
+│    [10] VITA ──────────────────────────────────────────────────────────────────────── [Studio Core]  │
+│       - NFC-based health identity combining funding and SMS bot interface.                           │
+│       - Tech: FLUTTER · NFC · OPAY HACKATHON · GOOGLE CLOUD · SMS BOT                                │
+│       - Info: Built and delivered complete UI prototype for Google/OPay.                             │
+│                                                                                                      │
+│    [11] CLASSROOM ALLOCATION SYSTEM ────────────────────────────────────────────────── [Full-Stack]  │
+│       - Automated academic examination seating database and allocation system.                       │
+│       - Tech: SQL · DATABASE DESIGN · EXAMINATION SCHEDULING · TEAM LEAD                             │
+│       - Info: Served as Team Lead organizing examinee seating distributions.                         │
+│                                                                                                      │
+│    [12] LEGUIDE ──────────────────────────────────────────────────────────────────── [Mobile & Web]  │
+│       - Tutoring marketplace user interface connecting tutors with students.                         │
+│       - Tech: FLUTTER · DART · MARKETPLACE · UI DESIGN                                               │
+│       - Info: Implemented search profiles, rating views, scheduling interfaces.                      │
+│                                                                                                      │
+│    [13] OCEAN BASKET NIGERIA ─────────────────────────────────────────────────────── [Mobile & Web]  │
+│       - 3D promotional web interface using advanced graphics libraries.                              │
+│       - Tech: VITE · THREE.JS · GSAP · WebGL · 3D WEB                                                │
+│       - Info: Engineered with custom shaders for high-performance 3D rendering.                      │
+│                                                                                                      │
+│    [14] HARBOR HAVEN FOUNDATION ──────────────────────────────────────────────────── [Mobile & Web]  │
+│       - Complete 7-page responsive web platform built for nonprofit.                                 │
+│       - Tech: HTML · CSS · JAVASCRIPT · NONPROFIT · WEB DESIGN                                       │
+│       - Info: Features donation integrations, content pages, media galleries.                        │
+│                                                                                                      │
+│    [15] KIDS CODING BOOTCAMP ──────────────────────────────────────────────────── [Community/Teach]  │
+│       - Designed curriculum for 1-month coding bootcamp for ages 6-12.                               │
+│       - Tech: CURRICULUM DESIGN · DARTPAD · FLUTLAB · MOBILE DEV                                     │
+│       - Info: Led 60 training hours; students built functional mobile apps.                          │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+## 04 // DEVELOPMENT ROUTE & EXPERIENCE
+
+```text
+┌───[ DEVELOPMENT ROUTE & EXPERIENCE ]─────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│  2026 ──●  BLUE PARTICLE STUDIOS ── [Founder & Lead Coordinator]                                     │
+│         │  Managing customized app pipeline across Core/Foundation/Signature tiers.                  │
+│         │                                                                                            │
+│  2026 ──●  CODE CAMPUS (STYCLICK) ── [Full-Stack Developer Intern]                                   │
+│         │  Specialized in Provider state management and full-stack app features.                     │
+│         │                                                                                            │
+│  2025 ──●  FIRS GOOGLE MAPS ── [Technical Trainer (Lagos)]                                           │
+│         │  Instructed fleet drivers; optimized Lagos-wide navigation layouts.                        │
+│         │                                                                                            │
+│  2024 ──●  NILE UNIVERSITY OF NIGERIA ── [Software Engineering Track]                                │
+│            Team Tensor Lead; won Wema Bank Hackaholics 6.0 regional finals.                          │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+## 05 // TECHNICAL STACK & UTILITIES
+
+```text
+┌───[ TECHNICAL STACK & UTILITIES ]────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│  [LANGUAGES] ──── Dart · JavaScript · TypeScript · Python · SQL · SQLite                             │
+│  [MOBILE] ─────── Flutter (Mobile & Web) · Firebase · Supabase · Provider                            │
+│  [WEB] ────────── Node.js · Three.js · Vite · GSAP · Express · HTML/CSS                              │
+│  [DATA] ───────── Supabase · PostgreSQL · Firebase Firestore · SQLite                                │
+│  [AI] ─────────── OpenAI API · Vosk/google_speech (Offline Voice Assistant)                          │
+│  [TERMINAL] ───── AutoHotkey automations · Git · CLI / Shell script pipelines                        │
+│  [TOOLING] ────── Figma · Git · Docker · Notion · Postman · Android Studio                           │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Sharann Manojkumar"/></picture>
-
-<a href="https://sharann.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
-<a href="https://sharann.dev/Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume"/></picture></a>
-<a href="https://linkedin.com/in/sharannm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="https://x.com/m_sharann"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square" alt="X"/></picture></a>
-<a href="mailto:sharannmanojkumar@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,ts,py,postgres,sqlite,firebase,supabase,nodejs,express,threejs,vite,html,css,figma,git,github,docker,notion,postman,androidstudio)](https://skillicons.dev)
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Sharann"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="15 projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
+## 06 // SYSTEM STATUS
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ SYSTEM STATUS INTERFACE                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ STATUS   ▸ BUILDING (Probably in an editor, past midnight)                                           ║
+║ SESSION  ▸ ACTIVE LOGS // STYCLICK RUNNING                                                           ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ wali-blog.vercel.app  ·  Abuja, NG  ·  © 2026 // ALL SYSTEMS OPERATIONAL                             ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharann-del&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
-
+  <img src="assets/main.gif" width="800" alt="Main Animation" />
 </div>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Professional experience"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
-
-<!-- one responsive picture per visual; no duplicate light/dark rendering -->

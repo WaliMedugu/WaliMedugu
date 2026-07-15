@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="100%">
+  <defs>
+    <!-- Import Google Font -->
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&amp;display=swap');
+      .title-text {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 46px;
+        fill: url(#text-grad);
+      }
+      .tagline-text {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+        fill: #b45309;
+        letter-spacing: 4px;
+      }
+      .desc-text {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        fill: #475569;
+      }
+      .badge-text {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 11px;
+      }
+    </style>
+
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" />
+      <stop offset="50%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#0891b2" />
+    </linearGradient>
+
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f8fafc" />
+    </linearGradient>
+
+    <linearGradient id="node-line-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0891b2" stop-opacity="0.05" />
+    </linearGradient>
+
+    <filter id="subtle-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="800" height="320" rx="16" fill="url(#bg-grad)" stroke="#e2e8f0" stroke-width="1.5" />
+  
+  <!-- Subtle Grid Pattern in Background -->
+  <g opacity="0.15">
+    <path d="M 0,40 L 800,40 M 0,80 L 800,80 M 0,120 L 800,120 M 0,160 L 800,160 M 0,200 L 800,200 M 0,240 L 800,240 M 0,280 L 800,280" stroke="#e2e8f0" stroke-width="1"/>
+    <path d="M 80,0 L 80,320 M 160,0 L 160,320 M 240,0 L 240,320 M 320,0 L 320,320 M 400,0 L 400,320 M 480,0 L 480,320 M 560,0 L 560,320 M 640,0 L 640,320 M 720,0 L 720,320" stroke="#e2e8f0" stroke-width="1"/>
+  </g>
+
+  <!-- Graph Network Nodes & Connections (Bloodline Inspired) -->
+  <g stroke="url(#node-line-grad)" stroke-width="1.5">
+    <line x1="560" y1="80" x2="680" y2="100" />
+    <line x1="680" y1="100" x2="720" y2="210" />
+    <line x1="720" y1="210" x2="610" y2="250" />
+    <line x1="610" y1="250" x2="560" y2="80" />
+    <line x1="560" y1="80" x2="610" y2="250" />
+    <line x1="680" y1="100" x2="610" y2="250" />
+    <line x1="680" y1="100" x2="740" y2="50" />
+    <line x1="720" y1="210" x2="770" y2="270" />
+    <line x1="610" y1="250" x2="530" y2="280" />
+    <line x1="560" y1="80" x2="500" y2="50" />
+  </g>
+
+  <!-- Node Points -->
+  <circle cx="560" cy="80" r="7" fill="#7c3aed" />
+  <circle cx="680" cy="100" r="10" fill="#a855f7" />
+  <circle cx="720" cy="210" r="8" fill="#0891b2" />
+  <circle cx="610" cy="250" r="12" fill="#4f46e5" />
+  
+  <circle cx="740" cy="50" r="4" fill="#a855f7" opacity="0.6" />
+  <circle cx="770" cy="270" r="5" fill="#0891b2" opacity="0.6" />
+  <circle cx="530" cy="280" r="4" fill="#4f46e5" opacity="0.6" />
+  <circle cx="500" cy="50" r="6" fill="#7c3aed" opacity="0.6" />
+
+  <!-- Left-aligned branding and details -->
+  <text x="50" y="105" class="title-text">WALI</text>
+  <text x="50" y="138" class="tagline-text">BUILDER • STORYTELLER • LEAD</text>
+  
+  <text x="50" y="178" class="desc-text">🚀 Founder &amp; Lead at <tspan fill="#2563eb" font-weight="600">Blue Particle Studios</tspan></text>
+  <text x="50" y="202" class="desc-text">🏆 Regional Winner at Wema Bank Hackaholics 6.0</text>
+  <text x="50" y="226" class="desc-text">🎙️ Creator of Cognitia &amp; <tspan fill="#db2777" font-weight="600">@notevenwali</tspan> (YouTube/Substack)</text>
+
+  <!-- Interactive/Pill badges at the bottom left -->
+  <g transform="translate(50, 255)">
+    <!-- Flutter -->
+    <rect width="80" height="24" rx="12" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+    <text x="40" y="16" class="badge-text" fill="#0284c7" text-anchor="middle">Flutter</text>
+    
+    <!-- Supabase -->
+    <rect x="90" width="95" height="24" rx="12" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+    <text x="137.5" y="16" class="badge-text" fill="#059669" text-anchor="middle">Supabase</text>
+    
+    <!-- Node.js -->
+    <rect x="195" width="80" height="24" rx="12" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+    <text x="235" y="16" class="badge-text" fill="#65a30d" text-anchor="middle">Node.js</text>
+  </g>
+</svg>

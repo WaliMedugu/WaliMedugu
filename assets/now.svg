@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Now: third-year CS student at VIT Chennai, building full-stack and iOS apps, open to internships">
+<svg viewBox="0 0 1000 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Now: third-year CS student at VIT Abuja, building full-stack and iOS apps, open to internships">
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --accent: #AAAAAA; } }
@@ -16,10 +16,10 @@
   <line x1="0" y1="63.5" x2="1000" y2="63.5" stroke="var(--rule)"/>
   <g class="belt">
     <text class="mono" x="60" y="38" font-size="13" letter-spacing="2">
-      <tspan fill="var(--accent)">NOW&#160;&#160;&#9656;&#160;&#160;</tspan><tspan fill="var(--bone)">3RD-YEAR CS @ VIT CHENNAI</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">iOS &amp; FULL-STACK DEVELOPER</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">ISPACE CLUB — WEB &amp; APP DEV</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">OPEN TO INTERNSHIPS &amp; COLLABORATION</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan>
+      <tspan fill="var(--accent)">NOW&#160;&#160;&#9656;&#160;&#160;</tspan><tspan fill="var(--bone)">STUDIO FOUNDER &amp; BUILDER</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">FLUTTER &amp; FULL-STACK ENGINEER</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">WEMA BANK REGIONAL WINNER</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">BUILDING ARGUUU &amp; LIFE SYSTEMS</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan>
     </text>
     <text class="mono" x="1620" y="38" font-size="13" letter-spacing="2">
-      <tspan fill="var(--accent)">NOW&#160;&#160;&#9656;&#160;&#160;</tspan><tspan fill="var(--bone)">3RD-YEAR CS @ VIT CHENNAI</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">iOS &amp; FULL-STACK DEVELOPER</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">ISPACE CLUB — WEB &amp; APP DEV</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">OPEN TO INTERNSHIPS &amp; COLLABORATION</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan>
+      <tspan fill="var(--accent)">NOW&#160;&#160;&#9656;&#160;&#160;</tspan><tspan fill="var(--bone)">STUDIO FOUNDER &amp; BUILDER</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">FLUTTER &amp; FULL-STACK ENGINEER</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">WEMA BANK REGIONAL WINNER</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan><tspan fill="var(--bone)">BUILDING ARGUUU &amp; LIFE SYSTEMS</tspan><tspan fill="var(--accent)">&#160;&#160;&#160;&#10038;&#160;&#160;&#160;</tspan>
     </text>
   </g>
   <defs>
