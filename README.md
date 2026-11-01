@@ -2,6 +2,16 @@
   <img src="assets/avatar.png" width="800" alt="Wali Medugu" />
 </div>
 
+**Software engineer and founder of [Blue Particle Studios](https://blue-particle-studios.vercel.app), Abuja, Nigeria.**
+
+- **[SkyScore](https://skyscore-ten.vercel.app):** Credit for young farmers, underwritten from space. Team Tensor Labs, InnovateX 2026.
+- **[ATLAS-MORPH](https://github.com/WaliMedugu/atlas-morph):** Runs Nigeria's N-ATLaS AI model on affordable laptops. Team lead, National AI Innovation Challenge 2026 submission.
+- **[WherAreThey](https://wheraretheyng.vercel.app):** Nigerian missing persons platform connecting families with people who spot their loved ones.
+- **Wallet Padi:** Team lead. Won the Veritas University Abuja centre at Wema Bank Hackaholics 6.0 ([BusinessDay](https://businessday.ng/banking/article/wema-bank-unveils-n120m-prize-pool/)).
+- **[Blue Particle Studios](https://blue-particle-studios.vercel.app):** Launch films and websites for paying clients, including Groville and Els Bouquets.
+
+Portfolio: [wali-medugu.vercel.app](https://wali-medugu.vercel.app)
+
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║ W A L I   M E D U G U  //  S Y S T E M   I N T E R F A C E                                           ║
